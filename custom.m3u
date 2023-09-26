@@ -1,0 +1,92 @@
+#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/in/dishtv.in.epg.xml,https://iptv-org.github.io/epg/guides/uk/ontvtonight.com.epg.xml"
+#EXTINF:-1 tvg-chno="213" group-title="Ravi - Movies",Star Gold Romance
+http://144.217.70.181:9587/hin2/UTVMOVIESHD/index.m3u8?token=test
+#EXTINF:-1 tvg-chno="299" group-title="Ravi-Sports",Jio Cinema
+https://prod-sports-north-gm.jiocinema.com/bpk-tv/JC_Cricket_Hin_IDC_AND/Fallback/index.m3u8
+#EXTINF:-1 tvg-logo="https://ocdn.eu/ptv2-images/logo-migrated/bollywood-hd.jpg" tvg-chno="318" group-title="Ravi - Movies",Bollywood HD
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/manifest.m3u8
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-afq8mSGUMdc/Ub78RIyBLrI/AAAAAAAAHdo/7rEiji_EeoM/w640/firangi.jpg" tvg-chno="398" group-title="Ravi - Movies",Sahara Firangi
+https://m-c15-j2apps.s.llnwi.net/hls/0353.Firangi.in_480p/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBwI-tLpz_F7U1mw1MkvVUF-JBlddv0Zwh0Q&usqp=CAU" tvg-chno="483" group-title="Ravi-Sports",Dream11 Fancode
+https://dai.fancode.com/primary/76070_english_hls_8812ta-di/1080p.m3u8
+#EXTINF:-1 tvg-chno="484" group-title="Ravi - CDN",9XM
+https://amg01281-9xmediapvtltd-9xmusic-samsungin-j8yoo.amagi.tv/playlist/amg01281-9xmediapvtltd-9xmusic-samsungin/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
+#EXTINF:-1 tvg-chno="492" group-title="Ravi - CDN",9x Jalwa
+https://cdn-singapore-5160-prod.tsv2.amagi.tv/linear/amg01281-9xmediapvtltd-9xjalwa-samsungin/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
+#EXTINF:-1 tvg-chno="532" group-title="Ravi - CDN",Q Marathi
+https://cdn-singapore-5160-prod.tsv2.amagi.tv/linear/amg01687-qyouindia-qmarathiin-samsungin/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
+#EXTINF:-1 tvg-chno="540" group-title="Ravi - News",Lokshahi News
+https://see.lokshahi.live/live/index.m3u8
+#EXTINF:-1 tvg-chno="544" group-title="Ravi - CDN",9X Jhakaas
+https://cdn-singapore-5160-prod.tsv2.amagi.tv/linear/amg01281-9xmediapvtltd-9xjhakaas-samsungin/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
+#EXTINF:-1 tvg-logo="https://tvron.net/static/canale/512/bollywood-clasic.png" tvg-chno="911" group-title="Ravi - Movies",Bollywood Classic
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-classic/manifest.m3u8
+#EXTINF:-1 tvg-logo="https://assets.rstream.me/images/h/LBspPijHct.jpg" tvg-chno="1168" group-title="Sports (Hotstar)",Star Sports 1 (DRM)
+#KODIPROP:inputstream.adaptive.license_key=https://rstream.me/h/wv/1260000035?t=6668c97f06778083680670d4d415cab6ad705185a8cc10612768a3e62274566026557fb136ab81721748971d0078861f80730bc02d4df15791e1579284a7e569082fd4b35d||R{SSM}|
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTVLCOPT:http-user-agent=KAIOS
+https://rstream.me/h/1260000035/master.mpd?t=6668c97f06778083680670d4d415cab6ad705185a8cc10612768a3e62274566026557fb136ab81721748971d0078861f80730bc02d4df15791e1579284a7e569082fd4b35d|User-Agent=KAIOS
+#EXTINF:-1 tvg-logo="https://assets.rstream.me/images/h/OCsZipbCKK.jpg" tvg-chno="1173" group-title="Sports (Hotstar)",Star Sports 1 Hindi (DRM)
+#KODIPROP:inputstream.adaptive.license_key=https://rstream.me/h/wv/1260000025?t=6668c97f06778083680670d4d415cab6ad705185a8cc10612768a3e62274566026557fb136ab81721748971d0078861f80730bc02d4df15791e1579284a7e569082fd4b35d||R{SSM}|
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTVLCOPT:http-user-agent=KAIOS
+https://rstream.me/h/1260000025/master.mpd?t=6668c97f06778083680670d4d415cab6ad705185a8cc10612768a3e62274566026557fb136ab81721748971d0078861f80730bc02d4df15791e1579284a7e569082fd4b35d|User-Agent=KAIOS
+#EXTINF:-1 tvg-logo="https://assets.rstream.me/images/h/BtnlvNwurz.jpg" tvg-chno="1179" group-title="Ravi - Movies",Star Gold (DRM)
+#KODIPROP:inputstream.adaptive.license_key=https://rstream.me/h/wv/1260000040?t=6668c97f06778083680670d4d415cab6ad705185a8cc10612768a3e62274566026557fb136ab81721748971d0078861f80730bc02d4df15791e1579284a7e569082fd4b35d||R{SSM}|
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTVLCOPT:http-user-agent=KAIOS
+https://rstream.me/h/1260000040/master.mpd?t=6668c97f06778083680670d4d415cab6ad705185a8cc10612768a3e62274566026557fb136ab81721748971d0078861f80730bc02d4df15791e1579284a7e569082fd4b35d|User-Agent=KAIOS
+#EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/w_352,h_198,c_scale,f_webp,q_auto:eco/resources/0-9-394/channel_list/1170x658717187404.png" tvg-chno="1230" group-title="Ravi - Marathi",Zee Chitramandir
+http://rstream.me/z/0-9-394/master.m3u8?t=6668c97f06778083680670d4d415cab6ad705185a8cc10612768a3e62274566026557fb136ab81721748971d0078861f80730bc02d4df15791e1579284a7e569082fd4b35d
+#EXTINF:-1 tvg-logo="https://assets.rstream.me/images/t/LEQpFheOkj.png" tvg-chno="2003" group-title="Ravi - News",Aaj Tak HD
+https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8
+#EXTINF:-1 tvg-chno="3436" group-title="Ravi - Movies",Yupp Classic Cinema
+https://yuppmovind.akamaized.net/yhincla/yhincla/chunklist_w537616995.m3u8?ads.app_bundle=&ads.app_store_url=&ads.content_livestream=1&ads.lang=HIN&ads.content_genre=ENT&ads.channel=3155?T=
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSswh94SLSvOzzExKmgJCG-JMVz0whnMcoT4w&usqp=CAU" tvg-chno="5000" group-title="Ravi - Movies",Bollywood Prime
+https://dai.google.com/linear/hls/event/yvQpXDAeRMGU25KTu--V6Q/master.m3u8
+#EXTINF:-1 tvg-chno="5005" group-title="Ravi - Movies",B4U Kadak
+http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/index.m3u8
+#EXTINF:-1 tvg-chno="5006" group-title="Ravi - Marathi",ABP Majha (720p)
+https://abp-i.akamaihd.net/hls/live/765531/abpmajha/master.m3u8
+#EXTINF:-1 tvg-chno="5007" group-title="Ravi - News",Aaj Tak (720p)
+https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8
+#EXTINF:-1 tvg-chno="7001" group-title="Ravi - Hindi",DD National HD
+https://livectv.phando.com/8015/playlist.m3u8
+#EXTINF:-1 tvg-chno="7002" group-title="Ravi - Hindi",Dhinchaak
+https://livectv.phando.com/8070/playlist.m3u8
+#EXTINF:-1 tvg-chno="7003" group-title="Ravi - Movies",Goldmines Bollywood
+https://livectv.phando.com/8029/playlist.m3u8
+#EXTINF:-1 tvg-chno="7004" group-title="Ravi - Music",Music India
+https://livectv.phando.com/8059/playlist.m3u8
+#EXTINF:-1 tvg-chno="7005" group-title="Ravi - Music",B4U Music
+https://livectv.phando.com/8005/playlist.m3u8
+#EXTINF:-1 tvg-chno="7006" group-title="Ravi - Hindi",Shemaroo Umang
+https://livectv.phando.com/8077/playlist.m3u8
+#EXTINF:-1 tvg-chno="7007" group-title="Ravi - Music",9XM
+https://livectv.phando.com/8067/playlist.m3u8
+#EXTINF:-1 tvg-chno="7008" group-title="Ravi - Music",9X Jalwa
+https://livectv.phando.com/8065/playlist.m3u8
+#EXTINF:-1 tvg-chno="7009" group-title="Ravi - Hindi",Shemaroo TV
+https://livectv.phando.com/8062/playlist.m3u8
+#EXTINF:-1 tvg-chno="7010" group-title="Ravi - Music",Mastiii
+https://livectv.phando.com/8061/playlist.m3u8
+#EXTINF:-1 tvg-chno="7011" group-title="Ravi - Marathi",9X Jhakaas
+https://livectv.phando.com/8058/playlist.m3u8
+#EXTINF:-1 tvg-chno="7012" group-title="Ravi - Marathi",DD Sahyadri
+https://livectv.phando.com/8023/playlist.m3u8
+#EXTINF:-1 tvg-chno="7013" group-title="Ravi-Sports",DD Sports HD
+https://livectv.phando.com/8020/playlist.m3u8
+#EXTINF:-1 tvg-chno="7014" group-title="Ravi - Kids",Discovery Kids
+https://varun-iptv.netlify.app/m3u/discoverykidshindi.m3u8
+#EXTINF:-1 tvg-chno="7015" group-title="Ravi - Jio",Zee Talkies
+https://jiolive.tv/player/jiotv/app/live/153/null/index.m3u8
+#EXTINF:-1 tvg-id="AnjanTV.in" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://i.imgur.com/KhR7bvK.png" group-title="Undefined",Anjan (720p) [Not 24/7]
+https://f3.vstream.online:7443/bstb/ngrp:anjan_hdall/playlist.m3u8
+#EXTINF:-1 tvg-id="DilSe.in" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://i.imgur.com/QMaN9td.png" group-title="Ravi - Music",Dil Se (360p) [Not 24/7]
+https://live.hungama.com/linear/dil-se/playlist.m3u8
+#EXTINF:-1 tvg-id="KadakHits.in" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://i.imgur.com/Xl1eyUc.png" group-title="Ravi - Music",Kadak Hits (1080p) [Not 24/7]
+https://live.hungama.com/linear/kadak-hits/playlist.m3u8
+#EXTINF:-1 tvg-id="NDTVIndia.in" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://i.imgur.com/QjJYohG.png" group-title="Undefined",NDTV India (480p) [Not 24/7]
+https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/master.m3u8
+#EXTINF:-1 tvg-id="PopPataka.in" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://i.imgur.com/J5RzXeo.png" group-title="Ravi - Music",Pop Pataka (480p) [Not 24/7]
+https://live.hungama.com/linear/pop-pataka/playlist.m3u8
