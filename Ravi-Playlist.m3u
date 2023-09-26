@@ -1,0 +1,109 @@
+#EXTINF:0 tvg-chno="1001" group-title="Marathi|Entertainment",DD Sahyadri
+https://livectv.phando.com/8023/playlist.m3u8
+
+#EXTINF:0 tvg-chno="1101" group-title="Marathi|Movies",Zee Talkies
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeetalkies/default/index.m3u8
+#EXTINF:0 tvg-chno="1102" group-title="Marathi|Movies",Zee Talkies HD
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeetalkieshd/default/index.m3u8
+
+#EXTINF:0 tvg-chno="1201" group-title="Marathi|Music",9X Jhakaas
+https://livectv.phando.com/8058/playlist.m3u8
+
+#EXTINF:0 tvg-chno="1301" group-title="Marathi|News",Lokshahi News
+https://see.lokshahi.live/live/index.m3u8
+#EXTINF:0 tvg-chno="1302" group-title="Marathi|News",ABP Majha
+https://abp-i.akamaihd.net/hls/live/765531/abpmajha/master.m3u8
+
+#EXTINF:0 tvg-chno="2001" group-title="Hindi|Entertainment",DD National HD
+https://livectv.phando.com/8015/playlist.m3u8
+#EXTINF:0 tvg-chno="2002" group-title="Hindi|Entertainment",DD National
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Ddnational/default/index.m3u8
+#EXTINF:0 tvg-chno="2003" group-title="Hindi|Entertainment",Zee Tv HD
+http://str24.l9574.com/606.stream/index.m3u8
+#EXTINF:0 tvg-chno="2004" group-title="Hindi|Entertainment",Zee Tv HD
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeetvhd/default/index.m3u8
+#EXTINF:0 tvg-chno="2005" group-title="Hindi|Entertainment",Zee Tv
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeetv/default/index.m3u8
+#EXTINF:0 tvg-chno="2006" group-title="Hindi|Entertainment",And tv HD
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Andtvhd/default/index.m3u8
+#EXTINF:0 tvg-chno="2007" group-title="Hindi|Entertainment",And tv
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Andtv/default/index.m3u8
+#EXTINF:0 tvg-chno="2009" group-title="Hindi|Entertainment",Shemaroo TV
+https://livectv.phando.com/8062/playlist.m3u8
+#EXTINF:0 tvg-chno="2010" group-title="Hindi|Entertainment",Shemaroo Umang
+https://livectv.phando.com/8077/playlist.m3u8
+#EXTINF:0 tvg-chno="2011" group-title="Hindi|Entertainment",Big magic
+https://hiskidxd.com/T5/JIOTV/app/live.php?id=1359.&e=.m3u8
+#EXTINF:0 tvg-chno="2012" group-title="Hindi|Entertainment",Zee Anmol
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeeanmol/default/index.m3u8
+
+#EXTINF:0 tvg-chno="3001" group-title="Hindi|Movies",Zee Cinema HD
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeecinemahd/default/index.m3u8
+#EXTINF:0 tvg-chno="3002" group-title="Hindi|Movies",Zee Cinema
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeecinema/default/index.m3u8
+#EXTINF:0 tvg-chno="3003" group-title="Hindi|Movies",& Pictures HD
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Andpictureshd/default/index.m3u8
+#EXTINF:0 tvg-chno="3004" group-title="Hindi|Movies",& Pictures
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Andpictures/default/index.m3u8
+#EXTINF:0 tvg-chno="3005" group-title="Hindi|Movies",Zee Action
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeeaction/default/index.m3u8
+#EXTINF:0 tvg-chno="3006" group-title="Hindi|Movies",Zee Anmol Cinema
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeeanmolcinema/default/index.m3u8
+#EXTINF:0 tvg-chno="3007" group-title="Hindi|Movies",Zee Bollywood
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeebollywood/default/index.m3u8
+#EXTINF:0 tvg-chno="3008" group-title="Hindi|Movies",Star Gold Romance
+http://144.217.70.181:9587/hin2/UTVMOVIESHD/index.m3u8?token=test
+#EXTINF:0 tvg-chno="3009" group-title="Hindi|Movies",Goldmines Bollywood
+https://livectv.phando.com/8029/playlist.m3u8
+#EXTINF:0 tvg-chno="3010" group-title="Hindi|Movies",Dhinchaak
+https://livectv.phando.com/8070/playlist.m3u8
+#EXTINF:0 tvg-chno="3011" group-title="Hindi|Movies",Bollywood HD
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/manifest.m3u8
+#EXTINF:0 tvg-chno="3012" group-title="Hindi|Movies",Bollywood Classic
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-classic/manifest.m3u8
+#EXTINF:0 tvg-chno="3013" group-title="Hindi|Movies",Bollywood Prime
+https://dai.google.com/linear/hls/event/yvQpXDAeRMGU25KTu--V6Q/master.m3u8
+
+#EXTINF:0 tvg-chno="4001" group-title="Hindi|Music",B4U Music
+https://livectv.phando.com/8005/playlist.m3u8
+#EXTINF:0 tvg-chno="4002" group-title="Hindi|Music",Mastiii
+https://livectv.phando.com/8061/playlist.m3u8
+#EXTINF:0 tvg-chno="4003" group-title="Hindi|Music",9X Jalwa
+https://livectv.phando.com/8065/playlist.m3u8
+#EXTINF:0 tvg-chno="4004" group-title="Hindi|Music",9XM
+https://livectv.phando.com/8067/playlist.m3u8
+#EXTINF:0 tvg-chno="4005" group-title="Hindi|Music",Music India
+https://livectv.phando.com/8059/playlist.m3u8
+#EXTINF:0 tvg-chno="4006" group-title="Hindi|Music",Dil Se
+https://live.hungama.com/linear/dil-se/playlist.m3u8
+#EXTINF:0 tvg-chno="4007" group-title="Hindi|Music",Pop Pataka
+https://live.hungama.com/linear/pop-pataka/playlist.m3u8
+#EXTINF:0 tvg-chno="4008" group-title="Hindi|Music",Kadak Hits
+https://live.hungama.com/linear/kadak-hits/playlist.m3u8
+#EXTINF:0 tvg-chno="4009" group-title="Hindi|Music",Anjan
+https://f3.vstream.online:7443/bstb/ngrp:anjan_hdall/playlist.m3u8
+
+#EXTINF:0 tvg-chno="5001" group-title="Hindi|Sports",DD Sports HD
+https://livectv.phando.com/8020/playlist.m3u8
+
+#EXTINF:0 tvg-chno="6001" group-title="Hindi|Kids",Discovery Kids
+https://varun-iptv.netlify.app/m3u/discoverykidshindi.m3u8
+
+#EXTINF:0 tvg-chno="7001" group-title="Hindi|News",Aaj Tak HD
+https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8
+#EXTINF:0 tvg-chno="7002" group-title="Hindi|News",Aaj Tak
+https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8
+#EXTINF:0 tvg-chno="7003" group-title="Hindi|News",NDTV India
+https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/master.m3u8
+
+#EXTINF:-1 group-title="Ravi|CDN",9XM
+https://amg01281-9xmediapvtltd-9xmusic-samsungin-j8yoo.amagi.tv/playlist/amg01281-9xmediapvtltd-9xmusic-samsungin/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
+#EXTINF:-1 group-title="Ravi|CDN",9x Jalwa
+https://cdn-singapore-5160-prod.tsv2.amagi.tv/linear/amg01281-9xmediapvtltd-9xjalwa-samsungin/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
+#EXTINF:-1 group-title="Ravi|CDN",9X Jhakaas
+https://cdn-singapore-5160-prod.tsv2.amagi.tv/linear/amg01281-9xmediapvtltd-9xjhakaas-samsungin/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
+#EXTINF:-1 group-title="Ravi|CDN",Q Marathi
+https://cdn-singapore-5160-prod.tsv2.amagi.tv/linear/amg01687-qyouindia-qmarathiin-samsungin/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
+
+#EXTINF:-1 group-title="Jio|Marathi",Zee Talkies
+https://jiolive.tv/player/jiotv/app/live/153/null/index.m3u8
