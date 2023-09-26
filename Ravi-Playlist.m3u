@@ -94,7 +94,9 @@ https://varun-iptv.netlify.app/m3u/discoverykidshindi.m3u8
 https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8
 #EXTINF:0 tvg-chno="7002" group-title="Hindi|News",Aaj Tak
 https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8
-#EXTINF:0 tvg-chno="7003" group-title="Hindi|News",NDTV India
+#EXTINF:0 tvg-chno="7003" group-title="Hindi|News",ABP News
+https://abplivetv.akamaized.net/hls/live/2043010/hindi/master.m3u8
+#EXTINF:0 tvg-chno="7004" group-title="Hindi|News",NDTV India
 https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/master.m3u8
 
 #EXTINF:-1 group-title="Ravi|CDN",9XM
