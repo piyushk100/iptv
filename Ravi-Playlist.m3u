@@ -64,6 +64,8 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-classic/manifest.m3u8
 #EXTINF:0 tvg-chno="3013" group-title="Hindi | Movies",Bollywood Prime
 https://dai.google.com/linear/hls/event/yvQpXDAeRMGU25KTu--V6Q/master.m3u8
+#EXTINF:0 tvg-chno="3014" group-title="Hindi | Movies",Star Gold
+http://46.249.58.11:5000/live/premium-aostv-free/download-fdrm-aostv.asia/12749.ts
 
 #EXTINF:0 tvg-chno="4001" group-title="Hindi | Music",B4U Music
 https://livectv.phando.com/8005/playlist.m3u8
@@ -114,3 +116,10 @@ https://cdn-singapore-5160-prod.tsv2.amagi.tv/linear/amg01687-qyouindia-qmarathi
 
 #EXTINF:-1 group-title="Jio | Marathi",Zee Talkies
 https://jiolive.tv/player/jiotv/app/live/153/null/index.m3u8
+
+#EXTINF:-1 group-title="UK | Hindi",Utsav Bharat
+http://46.249.58.11:5000/live/premium-aostv-free/download-fdrm-aostv.asia/12159.ts
+#EXTINF:-1 group-title="UK | Hindi",Utsav Plus HD
+http://46.249.58.11:5000/live/premium-aostv-free/download-fdrm-aostv.asia/12650.ts
+#EXTINF:-1 group-title="UK | Hindi",Utsav Gold HD
+http://46.249.58.11:5000/live/premium-aostv-free/download-fdrm-aostv.asia/12750.ts
