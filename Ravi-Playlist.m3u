@@ -23,37 +23,13 @@ https://livectv.phando.com/8015/playlist.m3u8
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Ddnational/default/index.m3u8
 #EXTINF:0 tvg-chno="2003" group-title="Hindi | Entertainment",Zee Tv HD
 http://str24.l9574.com/606.stream/index.m3u8
-#EXTINF:0 tvg-chno="2004" group-title="Hindi | Entertainment",Zee Tv HD
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeetvhd/default/index.m3u8
-#EXTINF:0 tvg-chno="2005" group-title="Hindi | Entertainment",Zee Tv
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeetv/default/index.m3u8
-#EXTINF:0 tvg-chno="2006" group-title="Hindi | Entertainment",And tv HD
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Andtvhd/default/index.m3u8
-#EXTINF:0 tvg-chno="2007" group-title="Hindi | Entertainment",And tv
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Andtv/default/index.m3u8
 #EXTINF:0 tvg-chno="2009" group-title="Hindi | Entertainment",Shemaroo TV
 https://livectv.phando.com/8062/playlist.m3u8
 #EXTINF:0 tvg-chno="2010" group-title="Hindi | Entertainment",Shemaroo Umang
 https://livectv.phando.com/8077/playlist.m3u8
 #EXTINF:0 tvg-chno="2011" group-title="Hindi | Entertainment",Big magic
 https://hiskidxd.com/T5/JIOTV/app/live.php?id=1359.&e=.m3u8
-#EXTINF:0 tvg-chno="2012" group-title="Hindi | Entertainment",Zee Anmol
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeeanmol/default/index.m3u8
 
-#EXTINF:0 tvg-chno="3001" group-title="Hindi | Movies",Zee Cinema HD
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeecinemahd/default/index.m3u8
-#EXTINF:0 tvg-chno="3002" group-title="Hindi | Movies",Zee Cinema
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeecinema/default/index.m3u8
-#EXTINF:0 tvg-chno="3003" group-title="Hindi | Movies",& Pictures HD
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Andpictureshd/default/index.m3u8
-#EXTINF:0 tvg-chno="3004" group-title="Hindi | Movies",& Pictures
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Andpictures/default/index.m3u8
-#EXTINF:0 tvg-chno="3005" group-title="Hindi | Movies",Zee Action
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeeaction/default/index.m3u8
-#EXTINF:0 tvg-chno="3006" group-title="Hindi | Movies",Zee Anmol Cinema
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeeanmolcinema/default/index.m3u8
-#EXTINF:0 tvg-chno="3007" group-title="Hindi | Movies",Zee Bollywood
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeebollywood/default/index.m3u8
 #EXTINF:0 tvg-chno="3008" group-title="Hindi | Movies",Star Gold Romance
 http://144.217.70.181:9587/hin2/UTVMOVIESHD/index.m3u8?token=test
 #EXTINF:0 tvg-chno="3009" group-title="Hindi | Movies",Goldmines Bollywood
@@ -87,6 +63,10 @@ https://live.hungama.com/linear/pop-pataka/playlist.m3u8
 https://live.hungama.com/linear/kadak-hits/playlist.m3u8
 #EXTINF:0 tvg-chno="4009" group-title="Hindi | Music",Anjan
 https://f3.vstream.online:7443/bstb/ngrp:anjan_hdall/playlist.m3u8
+#EXTINF:0 tvg-chno="4010" group-title="Hindi | Music",Ishtar Music Live
+https://ythls-v3.onrender.com/channel/UCWi_65E_L8tQZ34C6wVAlpQ.m3u8
+#EXTINF:0 tvg-chno="4010" group-title="Hindi | Music",Bollywood Tadka Live
+https://ythls-v3.onrender.com/channel/UCQJZ2K9n3f2gsKh_wIfTbMA.m3u8
 
 #EXTINF:0 tvg-chno="5001" group-title="Hindi | Sports",DD Sports HD
 https://livectv.phando.com/8020/playlist.m3u8
@@ -106,6 +86,8 @@ https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8
 https://abplivetv.akamaized.net/hls/live/2043010/hindi/master.m3u8
 #EXTINF:0 tvg-chno="7004" group-title="Hindi | News",NDTV India
 https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/master.m3u8
+#EXTINF:0 tvg-chno="7005" group-title="Hindi | News",Aap Ki Adalat
+https://ythls-v3.onrender.com/channel/UCB5C3oyks1QkFdKIN-7WopQ.m3u8
 
 #EXTINF:-1 group-title="Ravi | CDN",9XM
 https://amg01281-9xmediapvtltd-9xmusic-samsungin-j8yoo.amagi.tv/playlist/amg01281-9xmediapvtltd-9xmusic-samsungin/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
