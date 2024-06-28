@@ -14,6 +14,8 @@ https://livectv.phando.com/8058/playlist.m3u8
 https://see.lokshahi.live/live/index.m3u8
 #EXTINF:0 tvg-chno="1302" group-title="Marathi | News",ABP Majha
 https://abp-i.akamaihd.net/hls/live/765531/abpmajha/master.m3u8
+#EXTINF:0 tvg-chno="1303" group-title="Marathi | News",NDTV Marathi
+https://ythls-v3.onrender.com/channel/UCyffgTMQXF9bwwmeAn_TI2Q.m3u8
 
 #EXTINF:0 tvg-chno="2001" group-title="Hindi | Entertainment",DD National HD
 https://livectv.phando.com/8015/playlist.m3u8
