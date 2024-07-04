@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:0 tvg-chno="1001" group-title="Marathi | Entertainment",DD Sahyadri
 https://livectv.phando.com/8023/playlist.m3u8
-EXTINF:0 tvg-chno="1001" group-title="Marathi | Entertainment",Sony Marathi
+EXTINF:0 tvg-chno="1002" group-title="Marathi | Entertainment",Sony Marathi
 https://pubads.g.doubleclick.net/ssai/event/-_w3Jbq3QoW-mFCM2YIzxA/master.m3u8
 
 #EXTINF:0 tvg-chno="1101" group-title="Marathi | Movies",Zee Talkies
