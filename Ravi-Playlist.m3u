@@ -73,31 +73,31 @@ http://46.249.58.11:5000/live/premium-aostv-free/download-fdrm-aostv.asia/12750.
 #EXTINF:-1 tvg-id="144" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_HD.png" group-title="SonyLiv",SONY HD
 https://sony247channels.akamaized.net/hls/live/2011671-b/SETHD/master.m3u8?hdnea=st=1724824401~exp=1724824701~acl=*~id=c3add5bd-84b4-46b0-8a3c-4b7f57f2d469~hmac=b7cbb17b6ee06ec05c1f58b7f6547df1f9128cbd8f9c0f9a6519779744ea6b3e&originpath=/linear/hls/pb/event/HgaB-u6rSpGx3mo4Xu3sLw/stream/5413cb3b-4fbf-41e4-bca5-dacf732e48b4:SIN/master.m3u8 
 #EXTINF:-1 tvg-id="144" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SAB.png" group-title="SonyLiv",SONY SAB HD
-https://pubads.g.doubleclick.net/ssai/event/UI4QFJ_uRk6aLxIcADqa_A/master.m3u8
+https://sony247channels.akamaized.net/hls/live/2011749-b/SABHD/master.m3u8?hdnea=st=1724825741~exp=1724826041~acl=*~id=a41b95b0-337f-47e0-85c7-0abf5b8ecc12~hmac=912bebdefce252be8ab7064995180765cfce7f4e3fcb4261e6eb667f6b278001&originpath=/linear/hls/pb/event/UI4QFJ_uRk6aLxIcADqa_A/stream/60196e48-4584-4bd0-9117-2d70eb85bdbb:TPE/master.m3u8
 #EXTINF:-1 tvg-id="144" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Marathi_SD.png" group-title="SonyLiv",SONY MARATHI
-https://pubads.g.doubleclick.net/ssai/event/-_w3Jbq3QoW-mFCM2YIzxA/master.m3u8
+https://sony247channels.akamaized.net/hls/live/2011740-b/SonyMarathi/master.m3u8?hdnea=st=1724825831~exp=1724826131~acl=*~id=c069827e-a73a-4bfd-9e3b-8d7b8ee2bd10~hmac=44b592f467ab0c6a1ada44cecbd61dc22477decb9b8d8c1b169c2a0a6b9f55eb&originpath=/linear/hls/pb/event/-_w3Jbq3QoW-mFCM2YIzxA/stream/44f58453-aab0-4f2d-aef8-a5d48099b4a2:SIN/master.m3u8
 #EXTINF:-1 tvg-id="144" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pal.png" group-title="SonyLiv",SONY PAL
-https://pubads.g.doubleclick.net/ssai/event/rPzF28qORbKZkhci_04fdQ/master.m3u8
+https://sony247channels.akamaized.net/hls/live/2011741-b/SonyPalSD/master.m3u8?hdnea=st=1724825898~exp=1724826198~acl=*~id=2bfc4bd5-00dd-41b7-a2ea-6a9ba0a0de26~hmac=6cb37194cedcc524e35de48269c805530744ffa309c9f8e9edaceab2afb6bdd2&originpath=/linear/hls/pb/event/rPzF28qORbKZkhci_04fdQ/stream/c4230383-6e20-413e-b60b-253f47fb43ed:SIN2/master.m3u8
 #EXTINF:-1 tvg-id="144" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Max_HD.png" group-title="SonyLiv",SONY MAX HD
-https://pubads.g.doubleclick.net/ssai/event/Qyqz40bSQriqSuAC7R8_Fw/master.m3u8
+https://sony247channels.akamaized.net/hls/live/2011670-b/SonyMaxhd/master.m3u8?hdnea=st=1724825928~exp=1724826228~acl=*~id=a83bbed7-ce6e-4f21-bf5c-a11a2d7b601e~hmac=a363270f4107dc3f5d97a84ea8b675099efb772a0926309580bce0468929e254&originpath=/linear/hls/pb/event/Qyqz40bSQriqSuAC7R8_Fw/stream/d9c8c7e7-927f-46e1-87c2-90fd138d7069:SIN/master.m3u8
 #EXTINF:-1 tvg-id="144" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/SET_MAX.png" group-title="SonyLiv",SONY MAX
-https://pubads.g.doubleclick.net/ssai/event/oJ-TGgVFSgSMBUoTkauvFQ/master.m3u8
+https://sony247channels.akamaized.net/hls/live/2011745-b/SonyMaxSD/master.m3u8?hdnea=st=1724825955~exp=1724826255~acl=*~id=9f79e554-e234-4cdc-a9f3-4a217ca93d92~hmac=d531430f354df87466add3397e84e3abd7e1046cb8bc5e81ea834d1aeba73d61&originpath=/linear/hls/pb/event/oJ-TGgVFSgSMBUoTkauvFQ/stream/1fe725d1-9889-4067-a676-1d9a48bfb6c2:SIN/master.m3u8
 #EXTINF:-1 tvg-id="144" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Wah.png" group-title="SonyLiv",SONY WAH
-https://pubads.g.doubleclick.net/ssai/event/H_ZvXWqHRGKpHcdDE5RcDA/master.m3u8
+https://sony247channels.akamaized.net/hls/live/2011906-b/SonyWah/master.m3u8?hdnea=st=1724826039~exp=1724826339~acl=*~id=c4bf9b42-1b02-4e2e-aaa5-4024a5c6654a~hmac=e757af57fd12a2a34897be8edcbaae103f7cb455f2cb2d32c96f3a25d4d6795f&originpath=/linear/hls/pb/event/H_ZvXWqHRGKpHcdDE5RcDA/stream/119ddb5a-b74b-4f9a-a1d2-c8faa099445b:SIN/master.m3u8
 #EXTINF:-1 tvg-id="144" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_MAX2.png" group-title="SonyLiv",SONY MAX2
-https://pubads.g.doubleclick.net/ssai/event/4Jcu195QTpCNBXGnpw2I6g/master.m3u8
+https://sony247channels.akamaized.net/hls/live/2011908-b/MAX2/master.m3u8?hdnea=st=1724826074~exp=1724826374~acl=*~id=0b2c38b1-2f4f-4f92-a591-0381d1704dd5~hmac=7436178e9eab3819aeccd32255edc5f26bde42ffc2bd1fa888491901a18a8e35&originpath=/linear/hls/pb/event/4Jcu195QTpCNBXGnpw2I6g/stream/063af95f-7259-4d0e-8759-26e5ffaf47d2:TPE/master.m3u8
 #EXTINF:-1 tvg-id="144" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Yay_Hindi.png" group-title="SonyLiv",SONY YAY
-https://pubads.g.doubleclick.net/ssai/event/40H5HfwWTZadFGYkBTqagg/master.m3u8
+https://sony247channels.akamaized.net/hls/live/2011746-b/SonyYaySD/master.m3u8?hdnea=st=1724826122~exp=1724826422~acl=*~id=498d1630-3b97-4c94-9e3b-d1cc399e0290~hmac=d3f743e96d60ed2c20abde530ba21c8a2c20ad072c4ccedc443c910572aaa250&originpath=/linear/hls/pb/event/40H5HfwWTZadFGYkBTqagg/stream/14f0155e-0a35-4801-867e-62f7ddeacab2:TPE/master.m3u8
 #EXTINF:-1 tvg-id="762" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pix_HD.png" group-title="SonyLiv",SONY PIX HD
 https://pubads.g.doubleclick.net/ssai/event/8FR5Q-WfRWCkbMq_GxZ77w/master.m3u8
 #EXTINF:-1 tvg-id="144" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Six_HD.png" group-title="SonyLiv",SONY SIX HD
-https://pubads.g.doubleclick.net:443/ssai/event/DD7fA-HgSUaLyZp9AjRYxQ/master.m3u8
+https://sony247channels.akamaized.net/hls/live/2020593-b/SONYSIXHD/master.m3u8?hdnea=st=1724826172~exp=1724826472~acl=*~id=35797a41-2aef-4285-95c2-d659fe02a868~hmac=d040de8a515b04e73fdc28b539a988f09a19d736297f77b1bded0d6f0bfe521f&originpath=/linear/hls/pb/event/DD7fA-HgSUaLyZp9AjRYxQ/stream/e9c76bf1-3d26-4455-be47-95042291ce89:SIN/master.m3u8
 #EXTINF:-1 tvg-id="162" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_HD.png" group-title="SonyLiv",SONY TEN 1 HD
-https://pubads.g.doubleclick.net:443/ssai/event/yeYP86THQ4yl7US8Zx5eug/master.m3u8
+https://sony247channels.akamaized.net/hls/live/2011747-b/TEN1HD/master.m3u8?hdnea=st=1724826200~exp=1724826500~acl=*~id=9cbd3675-5ca9-45c4-9cc0-e31d1dfa2cea~hmac=32ebfe0d04b0c4d4b7cb5d79816b727c4841c967f0bc58a7e35fabc111653ccb&originpath=/linear/hls/pb/event/yeYP86THQ4yl7US8Zx5eug/stream/95353a92-370d-460f-b08a-ebd862f22543:SIN/master.m3u8
 #EXTINF:-1 tvg-id="144" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten2_HD.png" group-title="SonyLiv",SONY TEN 2 HD
-https://pubads.g.doubleclick.net:443/ssai/event/Syu8F41-R1y_JmQ7x0oNxQ/master.m3u8
+https://sony247channels.akamaized.net/hls/live/2020434-b/TEN2HD/master.m3u8?hdnea=st=1724826228~exp=1724826528~acl=*~id=3a2b2e1d-13c9-447d-a80c-0d8da2f126af~hmac=20a3f606ec20b90aa468b630908d03c3597e86e7cd4292c38b932544041d0aab&originpath=/linear/hls/pb/event/Syu8F41-R1y_JmQ7x0oNxQ/stream/1846bf76-a9f5-4110-9b05-036bc1dc6c36:SIN/master.m3u8
 #EXTINF:-1 tvg-id="144" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten3_HD.png" group-title="SonyLiv",SONY TEN 3 HD
-https://pubads.g.doubleclick.net:443/ssai/event/nmQFuHURTYGQBNdUG-2Qdw/master.m3u8
+https://sony247channels.akamaized.net/hls/live/2020591-b/TEN3HD/master.m3u8?hdnea=st=1724826253~exp=1724826553~acl=*~id=46c6f8f1-bfad-4b2c-b2aa-e4de150ac3da~hmac=5a143fe0f76f8fca9b50375be614e52d1acee7f822f57165276031a1a497428c&originpath=/linear/hls/pb/event/nmQFuHURTYGQBNdUG-2Qdw/stream/80f267ff-354f-473c-949d-4c9383223390:SIN/master.m3u8
 #EXTINF:-1 tvg-id="144" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Six_SD.png" group-title="SonyLiv",SONY SIX
 https://pubads.g.doubleclick.net/ssai/event/S-q8I27RRzmkb-OIdoaiAw/master.m3u8
 #EXTINF:-1 tvg-id="144" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_1.png" group-title="SonyLiv",SONY TEN 1
@@ -111,4 +111,4 @@ https://pubads.g.doubleclick.net/ssai/event/hInaEKUJSziZAGv9boOdjg/master.m3u8
 #EXTINF: -1 tvg-id="892" tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/SonyTEN4HD_Masthead_Logo.png" group-title="SonyLiv",SONY TEN 4 HD
 https://pubads.g.doubleclick.net/ssai/event/x4LxWUcVSIiDaq1VCM7DSA/master.m3u8
 #EXTINF: -1 tvg-id="525" tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/5571681160001.png" group-title="SonyLiv",BBC EARTH
-https://pubads.g.doubleclick.net/ssai/event/V73ovbgASP-xGvQQOukwTQ/master.m3u
+https://sony247channels.akamaized.net/hls/live/2011907-b/SonyBBCEarthHD/master.m3u8?hdnea=st=1724826302~exp=1724826602~acl=*~id=23ba1394-db15-4d1b-8a17-b9934af7c837~hmac=a8ac4af029e1e16019066f29ee1a058c9a3758e91ced492dccd2f48f053af2a2&originpath=/linear/hls/pb/event/V73ovbgASP-xGvQQOukwTQ/stream/2778acca-4a25-4405-a1da-0611ff810ee7:SIN2/master.m3u8
