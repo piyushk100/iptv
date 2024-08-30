@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:0 tvg-chno="1" group-title="Github",Welcome
-https://raw.githubusercontent.com/piyushk100/iptv.github.io/main/welcome.mp4?token=BKJKJFKJDKJKJDHJFHJFJHDJHDHJFJHF
+https://piyushk100.github.io/iptv.github.io/welcome.mp4?token=BKJKJFKJDKJKJDHJFHJFJHDJHDHJFJHF
 
 #EXTINF:0 tvg-chno="2" group-title="Github",Welcome mp4
 https://piyushk100.github.io/piyushk.github.io/welcome.mp4?token=BKJKJFKJDKJKJDHJFHJFJHDJHDHJFJHF
