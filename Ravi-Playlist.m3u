@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:0 tvg-chno="1" group-title="Github",Welcome
-https://raw.githubusercontent.com/piyushk100/iptv.github.io/refs/heads/main/welcome.mp4
+https://raw.githubusercontent.com/piyushk100/iptv.github.io/refs/heads/main/welcome.mp4?token=hdhhrbbdbdnnsdnn
 
 #EXTINF:0 tvg-chno="1001" group-title="Marathi | Entertainment",DD Sahyadri
 https://livectv.phando.com/8023/playlist.m3u8
